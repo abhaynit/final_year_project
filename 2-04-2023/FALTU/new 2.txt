@@ -1,0 +1,13 @@
+project : phase-2
+1 : do preprocessing in the better way you can
+2 : oversampling / undersampling / and else other
+3 : create the flow diagram 
+4 : explain the flow diagram and write all the f1 score and other parameter you get from the result.
+
+
+Lab report and their prepatation
+1 : create the contact list and write their ppt as well.
+
+exam preparation : end semester
+ a : mobile and pervasive computing.
+ start from the last pdf.
